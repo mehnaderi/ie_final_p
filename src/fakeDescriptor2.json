@@ -1,0 +1,55 @@
+{
+  "title": "مایحتاج مورد نیاز برای زلزله",
+  "_id": "5e31747eaba2ca0b21466510",
+  "fields": [
+    {
+      "name": "waters_needed",
+      "title": "تعداد بطری آب",
+      "type": "number",
+      "required": true,
+      "options": [],
+      "_id": "5e31747eaba2ca0b21466511"
+    },
+    {
+      "name": "homes_needed",
+      "title": "تعداد چادر های اسکان",
+      "type": "number",
+      "required": true,
+      "options": [],
+      "_id": "5e31747eaba2ca0b21466512"
+    },
+    {
+      "name": "human_damaged",
+      "title": "تعداد افراد بدون سرپناه",
+      "type": "number",
+      "required": true,
+      "options": [],
+      "_id": "5e31747eaba2ca0b21466513"
+    },
+    {
+      "name": "drugs_needed",
+      "title": "میزان داروی مورد نیاز",
+      "type": "text",
+      "required": true,
+      "options": [
+        {
+          "label": "low",
+          "_id": "5e31747eaba2ca0b21466515",
+          "value": "کم"
+        },
+        {
+          "label": "medium",
+          "_id": "5e31747eaba2ca0b21466516",
+          "value": "متوسط"
+        },
+        {
+          "label": "high",
+          "_id": "5e31747eaba2ca0b21466517",
+          "value": "زیاد"
+        }
+      ],
+      "_id": "5e31747eaba2ca0b21466514"
+    }
+  ],
+  "__v": 0
+}

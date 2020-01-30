@@ -1,13 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d0dabe7-c855-406d-97ef-e37273ab585e" name="Default Changelist" comment="" />
+    <list default="true" id="2d0dabe7-c855-406d-97ef-e37273ab585e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Components/FormsTableComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RecordWithDetailsComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/RecordsTableComponent.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_black-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_black-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_bold-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_bold-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_light-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_light-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_medium-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_medium-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_ultralight-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_ultralight-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecordFakeData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RecordFakeDescriptor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fakeDescriptor2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Final_Project_Front.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WuWwZfy6Woby7zwR3eaHTZQbKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,7 +49,40 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/dsd/SBU_IE_Final_Project_Backend-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="ts.external.directory.path" value="D:\JetBrains\WebStorm 2019.3.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mehrdad-PC\WebstormProjects\untitled\src\Components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Mehrdad-PC\WebstormProjects\untitled\src\Font" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -28,8 +94,79 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580000200369</updated>
-      <workItem from="1580000205855" duration="500000" />
+      <workItem from="1580000205855" duration="1108000" />
+      <workItem from="1580037880272" duration="5000" />
+      <workItem from="1580037902604" duration="59000" />
+      <workItem from="1580038651701" duration="820000" />
+      <workItem from="1580039498936" duration="45000" />
+      <workItem from="1580039579068" duration="12000" />
+      <workItem from="1580067561615" duration="396000" />
+      <workItem from="1580143537987" duration="15287000" />
+      <workItem from="1580169968201" duration="298000" />
+      <workItem from="1580209539823" duration="6745000" />
+      <workItem from="1580217711207" duration="4983000" />
+      <workItem from="1580227591386" duration="27561000" />
+      <workItem from="1580257912714" duration="1578000" />
+      <workItem from="1580294741795" duration="43317000" />
+      <workItem from="1580378307904" duration="24604000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Notifications" timestamp="1580067590092">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1580067590092" />
+    <state x="361" y="72" key="#Vim_Emulation" timestamp="1580144154991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Vim_Emulation/0.0.1536.824@0.0.1536.824" timestamp="1580144154991" />
+    <state x="485" y="203" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580161955211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="203" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1580161955211" />
+    <state x="449" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580402705711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="141" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1580402705711" />
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580256416253">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1580256416253" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1580308182631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1580308182631" />
+    <state width="1515" height="153" key="GridCell.Tab.0.bottom" timestamp="1580406834880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="153" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580406834880" />
+    <state width="1515" height="153" key="GridCell.Tab.0.center" timestamp="1580406834880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="153" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580406834880" />
+    <state width="1515" height="153" key="GridCell.Tab.0.left" timestamp="1580406834880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="153" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580406834880" />
+    <state width="1515" height="153" key="GridCell.Tab.0.right" timestamp="1580406834880">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="153" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580406834880" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1580144366471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580144366471" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1580341864301">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1580341864301" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1580405722646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580405722646" />
   </component>
 </project>

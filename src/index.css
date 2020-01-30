@@ -1,13 +1,161 @@
+@font-face {
+  font-family: 'iransansfanumregular';
+  src: url('./Font/iransansfanum-webfont.woff2') format('woff2'),
+  url('./Font/iransansfanum-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'iransansfanumblack';
+  src: url('./Font/iransansfanum_black-webfont.woff2') format('woff2'),
+  url('./Font/iransansfanum_black-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'iransansfanumultralight';
+  src: url('./Font/iransansfanum_ultralight-webfont.woff2') format('woff2'),
+  url('./Font/iransansfanum_ultralight-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'iransansfanummedium';
+  src: url('./Font/iransansfanum_medium-webfont.woff2') format('woff2'),
+  url('./Font/iransansfanum_medium-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'iransansfanumlight';
+  src: url('./Font/iransansfanum_light-webfont.woff2') format('woff2'),
+  url('./Font/iransansfanum_light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+@font-face {
+  font-family: 'iransansfanumbold';
+  src: url('./Font/iransansfanum_bold-webfont.woff2') format('woff2'),
+  url('./Font/iransansfanum_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: IRANSans, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: IRANSans, sans-serif;
+}
+
+#Forms, #Records {
+  font-family: IRANSans, sans-serif;
+  text-align: center;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  width: 100%;
+
+}
+
+#Forms td, #Forms th, #Records th, #Records td {
+  font-family: IRANSans, sans-serif;
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#Forms tr:nth-child(even), #Records tr:nth-child(even){background-color: #f2f2f2;}
+
+#Forms tr:hover, #Records tr:hover {background-color: #ddd;}
+
+#Forms th ,#Records th{
+  font-family: IRANSans, sans-serif;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: dodgerblue;
+  color: white;
+}
+.header_h{
+  font-family: IRANSans, sans-serif;
+  text-align: center;
+  margin: 10px;
+  color: white;
+}
+header{
+  font-family: IRANSans, sans-serif;
+  background: dodgerblue;
+  padding: 15px;
+}
+.jumbotron_edit
+{
+  font-family: IRANSans, sans-serif;
+  margin-bottom: 0 !important;
+}
+.filterDiv{
+  font-family: IRANSans, sans-serif;
+  display: inline;
+  /*border : #282c34 1px solid;*/
+  margin-left:   15px;
+}
+.filterForm{
+  font-family: IRANSans, sans-serif;
+  margin-left: 20px;
+}
+.filterSelector{
+  font-family: IRANSans, sans-serif;
+  width: 50% !important;
+}
+
+.visible{
+  font-family: IRANSans, sans-serif;
+  display: block !important;
+}
+.invisible{
+  font-family: IRANSans, sans-serif;
+  display: none !important;
+}
+.okBtnStyle{
+  font-family: IRANSans, sans-serif;
+  display: block;
+  margin: 20px;
+}
+.inputText{
+  font-family: IRANSans, sans-serif;
+  width: 50% !important;
+
+}
+.divInputText{
+  font-family: IRANSans, sans-serif;
+  /*display: block !important;*/
+  margin-top: 20px;
+}
+.noData{
+  font-family: IRANSans, sans-serif;
+  margin: auto;
+  width: 100%;
+  alignment: center;
+  text-align: center;
+  padding: 10px;
+}
+.btn_back{
+  margin-left: 20px;
+  margin-right: 20px;
+  background-color: #ffffff !important;
+  border: 1px #ffffff solid !important;
 }
