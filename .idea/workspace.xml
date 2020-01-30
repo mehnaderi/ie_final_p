@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d0dabe7-c855-406d-97ef-e37273ab585e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/FormsTableComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RecordWithDetailsComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/RecordsTableComponent.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_black-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_black-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_bold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_light-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_medium-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_medium-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_ultralight-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Font/iransansfanum_ultralight-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecordFakeData.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecordFakeDescriptor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fakeDescriptor2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Final_Project_Front.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +83,7 @@
       <workItem from="1580227591386" duration="27561000" />
       <workItem from="1580257912714" duration="1578000" />
       <workItem from="1580294741795" duration="43317000" />
-      <workItem from="1580378307904" duration="24604000" />
+      <workItem from="1580378307904" duration="25131000" />
     </task>
     <servers />
   </component>
